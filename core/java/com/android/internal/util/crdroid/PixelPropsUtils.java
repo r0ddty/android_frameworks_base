@@ -241,7 +241,7 @@ public class PixelPropsUtils {
         setPropValue("BRAND", "google");
         setPropValue("MANUFACTURER", "Google");
         setPropValue("DEVICE", "husky");
-        setPropValue("FINGERPRINT", "google/husky_beta/husky:15/AP31.240517.022/11948202:user/release-keys");
+        setPropValue("FINGERPRINT", "google/husky_beta/husky:15/AP31.240617.009/12094726:user/release-keys");
         setPropValue("MODEL", "Pixel 8 Pro");
         setPropValue("PRODUCT", "husky_beta");
     }
